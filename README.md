@@ -11,5 +11,12 @@ Here you can find C# code, Flutter, Deno (the language, not me), React, React Na
 * On [Linkedin](https://www.linkedin.com/in/denulemos/) ❤️
 * Read my [Portfolio](https://denulemos.github.io/portfolio/) ❤️
 
-![footer](footer.gif)
+---
+
+
+![header](footer.gif)
+
+
+
+
 
