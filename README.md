@@ -13,10 +13,4 @@ Here you can find C# code, Flutter, Deno (the language, not me), React, React Na
 
 ---
 
-
-![header](footer.gif)
-
-
-
-
-
+![header](footermar.gif)
