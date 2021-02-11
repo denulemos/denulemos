@@ -9,5 +9,5 @@ If you have any doubts, just let me know!
 ### Find me on.. 👀️
 
 * On [Linkedin](https://www.linkedin.com/in/denulemos/) ❤️
-* Read my [Portfolio](https://denulemos.github.io/portfolio/) ❤️
+* Read my [Portfolio](https://denulemos.github.io/) ❤️
 
