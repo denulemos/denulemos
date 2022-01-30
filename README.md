@@ -11,8 +11,10 @@
 
  </div>
 
-<h3 align="center">Buy me a Coffee!</h3>
+<h3 align="center">Buy me a Coffee! ☕ </h3>
+<div align="center">
 https://cafecito.app/denolemon
+ </div>
 
 <h3 align="center">Let´s connect!</h3>
 <p align="center">
