@@ -1,7 +1,7 @@
 <div align="center"><img width="250px" src="https://media4.giphy.com/media/IQebREsGFRXmo/giphy.gif" /></div>
 
 <h1 align="center">👋 I'm Denu</h1>
-<h3 align="center">I'm a passionate Front end and Mobile Developer</h3>
+<h3 align="center">I'm a passionate Developer</h3>
 
 <br />
 <div align="center">
