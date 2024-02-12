@@ -4,12 +4,6 @@
 <h3 align="center">Current Frontend and Mobile Developer. Fullstack Developer wannabe. Coffee Adict</h3>
 
 <br />
-<div align="center">
-
-👨‍💻 My portfolio is  [https://denulemos.github.io/](https://denulemos.github.io/)
-
-
- </div>
 
 <h3 align="center">Buy me a Coffee! ☕ </h3>
 <div align="center">
